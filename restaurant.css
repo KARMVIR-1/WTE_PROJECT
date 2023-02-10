@@ -1,0 +1,208 @@
+
+
+/* @import "http://fonts.googleapis.com/css?family=Droid+Serif";
+The Above Line Is To Import Google Font Style */
+.maindiv {
+margin:auto;
+width: 980px;
+height:700px;
+padding-top:20px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: larger;
+}
+
+div2{
+    font-family:nova;
+    font-size: 35px;
+}
+h1{
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+margin:auto;
+color: #ff0000;
+font-style: italic;
+
+font-size:150px;
+}
+
+.title {
+width:500px;
+height:70px;
+text-shadow:2px 2px 2px #cfcfcf;
+font-size:16px;
+text-align:center ;
+}
+.form_div {
+width: 500px;
+margin: auto;
+float:auto ;
+}
+form {
+width:auto;
+height: auto;
+border:1px dashed rgb(200, 0, 0);
+padding:10px 30px 40px;
+margin: auto;
+background-color:#fce90f;
+}
+form h2 {
+text-align:center;
+text-shadow:2px 2px 2px #f10f0f ;
+margin: auto;
+}
+
+input[type=textarea]{
+    width: 40%;
+    height:4cm;
+border-radius:1px;
+font-size: 50PX;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight: 700;
+box-shadow:0 0 1px 2px #1ea55b;
+margin-top:10px;
+padding:10px;
+border:none;
+}
+
+p{
+color:rgb(5, 2, 223);
+text-align:center ;
+font: size 40px;
+font-style: oblique;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+span {
+text-align:center;
+color:#0d57f8;
+font-size:50px;
+}
+
+body{
+    background-color: #a0e3cf;
+    text-align: center;
+}
+marquee{
+    font-size: 80px;
+}
+.res{
+    color: #000000;
+    font-size: 50px;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img{
+    height: 800px;
+    width: 1200px;
+}
+.a{
+    text-decoration: wavy;
+    color: #ff0000;
+    font-size:50px;
+    text-decoration: solid;
+
+}
+table{
+    margin-left:24%;
+}
+.required {
+    color: red;
+  }
+.d{
+    font: size 20%;;
+    color: #0d57f8;
+}
+.b{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:30px;
+    color: #0d57f8;
+}
+.c{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:40px;
+    color: #000000;
+}
+
+input[type="radio"] {
+    width: 100%;
+    background-color: #0000dc;
+    color: rgb(227, 38, 38);
+    padding: 14px 20px;
+    margin-top: 2%;
+    margin-left: 1%;
+    border-color:red;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 3em;
+    width:8em;
+    font-size:30px;
+  }
+.G1{
+    color: #000000;
+    font-size:40px;
+    padding-right:13%;
+}
+input[type="radio1"] {
+    width: 100%;
+    background-color: #0000dc;
+    color: rgb(227, 38, 38);
+    padding: 14px 20px;
+    margin-bottom:17%;
+    margin-left: 1%;
+    border-color:red;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 3em;
+    width:8em;
+    font-size:30px;
+  }
+input[type="submit"] {
+    width: 100%;
+    background-color: #0000dc;
+    color: white;
+    padding: 14px 20px;
+    margin-top: 2%;
+    margin-left: 1%;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    height: 10em;
+    width:8em;
+    font-size:30px;
+  }
+
+  input[type="text"], select, textarea {
+    width: 40%;
+    height:4cm;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 20x;
+    margin:auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  input[type="email"], select, textarea {
+    width: 40%;
+    height:4cm;
+    padding: 20x;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type="mobile"], select, textarea {
+    width: 40%;
+    height:4cm;
+    padding: 20x;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  .php{
+    text-align: justify;
+  }
